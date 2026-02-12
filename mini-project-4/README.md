@@ -107,7 +107,7 @@ Run all cells from top to bottom. The Fashion-MNIST dataset will download automa
 ## Team Contributions
 
 Team Members:  
-Henry Chen: Model setup, Model training, Created visualizations, requirements.txt, README.md
-Timothy Tan: Created visualizations and utility functions, Made report, Polished requirement versions
+- Henry Chen: Model setup, Model training, Created visualizations, requirements.txt, README.md
+- Timothy Tan: Created visualizations and utility functions, Made report, Polished requirement versions
 
 
