@@ -154,5 +154,5 @@ The best model checkpoint was saved at epoch 25 with val Dice = 0.817, val IoU =
 
 * **Timothy Tan**
   * Did data pre-processing, UNet model and training
-  * Made result visualizations
+  * Made result and training visualizations
   * Ran tests on 256x256 image resolutions
