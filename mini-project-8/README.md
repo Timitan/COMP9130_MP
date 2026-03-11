@@ -37,7 +37,8 @@ mini-project-8/
 ├── requirements.txt
 ├── .gitignore
 ├── notebooks/
-│   └── Group2_Mini_Project_VIII_COMP_9130.ipynb
+│   ├── Group2_Mini_Project_VIII_COMP_9130.ipynb
+|   └── 256x256_Group2_Mini_Project_VIII_COMP_9130.ipynb    (Tests for 256x256 image resolution)
 ├── results/
 │   ├── cm_pixel_level_result.png
 │   ├── fig_augmentation_visuals.png
@@ -147,7 +148,11 @@ The best model checkpoint was saved at epoch 25 with val Dice = 0.817, val IoU =
 ## Team Member Contributions
 
 * **Henry Chen**
-  * 
+  * Wrote Report with analysis, discussion, and references
+  * Made README.md
+  * Made prediction visualizations 
 
 * **Timothy Tan**
-  *
+  * Did data pre-processing, UNet model and training
+  * Made result visualizations
+  * Ran tests on 256x256 image resolutions
